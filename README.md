@@ -5,7 +5,7 @@
 
 ### About me
 - Previous account got hijacked under the alias "@ritv1"
-- Always experiment with LUA, PY, JAVA
+- LUA, PY, JAVA
 - Experimental UI Developer
 
 ### Contacts
